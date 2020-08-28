@@ -8,8 +8,8 @@ Data Source: https://www.kaggle.com/wordsforthewise/lending-club
 Python Packages Used: TensorFlow, Keras, Pandas, Matplotlib, Seaborn, sci-kit-learn
 
 Model / Architecture:
-● Data preprocessing through dealing with missing data, converting to categorical data, exploratory data analysis.
-● Model building using TensorFlow and Keras layers.
-● Compiling the model, fitting / training with training data and predict loan classification.
-● Evaluating model performance using the classification reports, confusion matrices and accuracy scores.
-● Comparing the deep learning result with other machine learning classifiers such as the Logistic Regression, Decision Tree, Gaussian NB classifier as well as with the ensemble of these classifiers.
+- Data preprocessing through dealing with missing data, converting to categorical data, exploratory data analysis.
+- Model building using TensorFlow and Keras layers.
+- Compiling the model, fitting / training with training data and predict loan classification.
+- Evaluating model performance using the classification reports, confusion matrices and accuracy scores.
+- Comparing the deep learning result with other machine learning classifiers such as the Logistic Regression, Decision Tree, Gaussian NB classifier as well as with the ensemble of these classifiers.
